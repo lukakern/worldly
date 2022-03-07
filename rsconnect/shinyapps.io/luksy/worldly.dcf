@@ -1,0 +1,13 @@
+name: worldly
+title: worldly
+username:
+account: luksy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5794785
+bundleId: 5650752
+url: https://luksy.shinyapps.io/worldly/
+when: 1646640587.97563
+lastSyncTime: 1646640587.97567
+asMultiple: FALSE
+asStatic: FALSE
